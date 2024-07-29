@@ -1,1 +1,1 @@
-# LLM-based-music-evaluation
+# Evaluation of LLMs' reasoning capability in the music understanding and generation
